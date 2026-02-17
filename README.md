@@ -78,6 +78,11 @@ npm run dev
 
 ---
 
+<img width="1843" height="894" alt="image" src="https://github.com/user-attachments/assets/8119d0f8-03a6-472f-a144-1893d1ef7b4f" />
+
+<img width="1913" height="905" alt="image" src="https://github.com/user-attachments/assets/479ec67a-8b36-450a-b122-9320e193ab5e" />
+
+
 ## 👨‍💻 Author
 
 Deepak Kumar
